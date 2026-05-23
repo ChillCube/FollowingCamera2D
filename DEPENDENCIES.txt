@@ -1,0 +1,4 @@
+# --- Automated Dependencies (Managed by Script) ---
+
+# --- Manually Add Dependencies Here  ---
+https://github.com/ChillCube/Godot_SmoothMovement

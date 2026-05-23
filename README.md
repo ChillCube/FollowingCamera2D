@@ -30,3 +30,7 @@ push-all-addons
 ```
 
 
+
+## Dependencies
+
+- [SmoothMovement](https://github.com/ChillCube/Godot_SmoothMovement)
